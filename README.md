@@ -1,6 +1,7 @@
 # Dipae App Android Only
 
-## Version 1.0.0 Friday, October 14, 2022
+![logo](https://user-images.githubusercontent.com/70096169/195939512-0a81215e-6409-40e9-8b97-dc4ba5eb456c.jpeg) ## Version 1.0.0 Friday, October 14, 2022
+
 **
 DIPAE App is an all encompassing application for students that gives them quick access to
 the informartion they are interested about their degree.
