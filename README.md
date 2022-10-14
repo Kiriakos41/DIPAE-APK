@@ -1,6 +1,6 @@
 # Dipae App Android Only
 
-## Version 1.0.0 Friday, October 14, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
+Version 1.0.0 Friday, October 14, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
 
 **
 DIPAE App is an all encompassing application for students that gives them quick access to
