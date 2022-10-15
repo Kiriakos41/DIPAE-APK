@@ -9,6 +9,11 @@ For now the app helps students to see the latest announcements from their degree
 making it faster to be up to date
 
 ## Version 1.0.5 Friday, October 16, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
+
+Latest Fixes v.1.0.5:
+- Language problems in the main page
+- Added Page to see the announcements exclusively from each professor
+- UI improvements in the main page
 ------------------------------------------------------
 In the future updates students can expect the following features:
 - Personalized Feed: Get the announcements you most care about, by following professors 
