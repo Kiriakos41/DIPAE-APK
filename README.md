@@ -13,6 +13,7 @@ making it faster to be up to date
 - Fixed Language problems in the main page
 - Added Page to see the announcements exclusively from each professor
 - UI improvements in the main page
+- Added link in every announcement to see the full post
 ------------------------------------------------------
 In the future updates students can expect the following features:
 - Personalized Feed: Get the announcements you most care about, by following professors 
