@@ -20,4 +20,4 @@ In the future updates students can expect the following features:
 - Notifications: Set Reminders for upcoming exams or assignments you need to publish,
 so you will never miss a date
 
-![image](https://user-images.githubusercontent.com/70096169/195937745-dd3d27e6-8a31-4365-86c4-542beb110c84.png)
+![Untitled-1](https://user-images.githubusercontent.com/70096169/196258447-7a06a9a0-9d65-4b06-9ad6-17aeb240f932.jpg)
