@@ -14,7 +14,6 @@ making it faster to be up to date
 - Added Page to see the announcements exclusively from each professor
 - UI improvements in the main page
 - You can now tap the announcement to read the full post and also click a button to read it on the official site
-- 
  ## Version 1.1.0 Friday, October 16, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
 
 - Added the profile picture of each professor in every post
