@@ -27,6 +27,7 @@ making it faster to be up to date
 - Changed the text fonts and the colors of the app
 - General User Interface changes
 - App is now faster after the first load
+- You can now click the name or profile picture of the professor and see his profile
 ------------------------------------------------------
 In the future updates students can expect the following features:
 - Personalized Feed: Get the announcements you most care about, by following professors 
