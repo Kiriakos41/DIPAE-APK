@@ -29,7 +29,7 @@ making it faster to be up to date
 - App is now faster after the first load
 - You can now click the name or profile picture of the professor and see his profile
 
-
+## Version 1.2.0 Wendsday, October 19, 2022 ![gg]
 - UI Improvements
 - Stability Improvements
 - Added loading panel when you have internet connection issues
