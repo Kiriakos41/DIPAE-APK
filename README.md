@@ -28,6 +28,14 @@ making it faster to be up to date
 - General User Interface changes
 - App is now faster after the first load
 - You can now click the name or profile picture of the professor and see his profile
+
+
+- UI Improvements
+- Stability Improvements
+- Added loading panel when you have internet connection issues
+- Fixed app crashing
+- Now you can click the profiles of each professor and see all of their announcements
+ - When you refresh, it says now that the content is refreshed
 ------------------------------------------------------
 In the future updates students can expect the following features:
 - Personalized Feed: Get the announcements you most care about, by following professors 
