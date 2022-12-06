@@ -8,7 +8,14 @@
 
   ![Screenshot_1669820710](https://user-images.githubusercontent.com/70096169/204833583-3367667e-163b-45f0-bcf7-48e12cbbe702.png)
 ------------------------------------------------------
+## Version 1.5.0 Tuesday, December 06, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
+- UI Improvements
+- Stability Improvements
+- New Loader
+
+![Screenshot_1670361415](https://user-images.githubusercontent.com/70096169/206024866-bb4d0d6b-9fcd-4248-88ea-5f3c0e457517.png)
+
+------------------------------------------------------
 In the future updates students can expect the following features:
-✅ Personalized Feed: Get the announcements you most care about, by following professors 
-🔜 Notifications: Set Reminders for upcoming exams or assignments you need to publish,
-so you will never miss a date
+- ✅ Personalized Feed: Get the announcements you most care about, by following professors 
+- 🔜 Notifications: Set Reminders for upcoming exams or assignments you need to publish, so you will never miss a date
