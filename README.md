@@ -12,6 +12,9 @@
 - UI Improvements
 - Stability Improvements
 - New Loader
+- New Loaded PopUp
+- Now you can see the elements of the teachers and you can interact with these according to the application you use.
+- You can also add the teachers you want as favorites in your list, showing you their updates at the top, by swiping to the right side.
 
 ![Screenshot_1670361415](https://user-images.githubusercontent.com/70096169/206024866-bb4d0d6b-9fcd-4248-88ea-5f3c0e457517.png)
 
