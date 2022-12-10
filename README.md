@@ -24,6 +24,7 @@
 - Dipae loading times is faster
 - Startup boot is fater
 - Fonts restore to system and not Dipae Fonts
+- Fonts now is Larger
 
 ![Screenshot_1670691838](https://user-images.githubusercontent.com/70096169/206866600-7bbf0e7f-24c3-4da7-b262-3c631a7ba8f6.png)
 
