@@ -19,6 +19,14 @@
 ![Screenshot_1670361415](https://user-images.githubusercontent.com/70096169/206024866-bb4d0d6b-9fcd-4248-88ea-5f3c0e457517.png)
 
 ------------------------------------------------------
+## Version 1.7.5 Tuesday, December 10, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
+• Splash Screen Added
+• Dipae loading times is faster
+• Startup boot is fater
+• Fonts restore to system and not Dipae Fonts
+
+![Screenshot_1670691838](https://user-images.githubusercontent.com/70096169/206866600-7bbf0e7f-24c3-4da7-b262-3c631a7ba8f6.png)
+
+------------------------------------------------------
 In the future updates students can expect the following features:
-- ✅ Personalized Feed: Get the announcements you most care about, by following professors 
 - 🔜 Notifications: Set Reminders for upcoming exams or assignments you need to publish, so you will never miss a date
