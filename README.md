@@ -20,10 +20,10 @@
 
 ------------------------------------------------------
 ## Version 1.7.5 Tuesday, December 10, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
-• Splash Screen Added
-• Dipae loading times is faster
-• Startup boot is fater
-• Fonts restore to system and not Dipae Fonts
+- Splash Screen Added
+- Dipae loading times is faster
+- Startup boot is fater
+- Fonts restore to system and not Dipae Fonts
 
 ![Screenshot_1670691838](https://user-images.githubusercontent.com/70096169/206866600-7bbf0e7f-24c3-4da7-b262-3c631a7ba8f6.png)
 
