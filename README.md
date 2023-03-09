@@ -14,8 +14,9 @@
 - Fixed App Crash
 ------------------------------------------------------
 ## Version 1.9.0 Tuesday, March 19, 2023 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
-- Fixed App Crash when professor dosent have data
-- Now in profesors page you can find more data like phone and email or location
+- We have resolved the issue that caused the app to crash when there was no data available for a professor. You should now be able to view their information without any problems
+- Our latest update includes additional details on a professor's page, such as their phone number, email address, and location. We hope this makes it easier for you to connect with your professors
+- Previously, the app would crash if there was no data available for a professor, but we've fixed that problem now. Additionally, we've added more information to the professor's page, including their contact details and location, for your convenience.
 ------------------------------------------------------
 In the future updates students can expect the following features:
 - 🔜 Notifications: Set Reminders for upcoming exams or assignments you need to publish, so you will never miss a date
