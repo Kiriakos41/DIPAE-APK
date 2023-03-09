@@ -13,7 +13,6 @@
 ## Version 1.7.8 Tuesday, December 18, 2022 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
 - Fixed App Crash
 ------------------------------------------------------
-------------------------------------------------------
 ## Version 1.9.0 Tuesday, March 19, 2023 ![ggs](https://user-images.githubusercontent.com/70096169/195939710-ff1e5c76-b4ed-49fa-a6ab-74c696c00e3c.jpeg)
 - Fixed App Crash when professor dosent have data
 - Now in profesors page you can find more data like phone and email or location
